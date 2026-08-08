@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Sunil Kumawat 👋
 
-<!--
-**Sunilkumawat-ai/Sunilkumawat-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring **AI Security Engineer** — interested in securing AI/ML systems, 
+LLM safety, and cloud infrastructure security
 
-Here are some ideas to get you started:
+🤖 Currently exploring how AI agents work (building them hands-on) to 
+better understand their attack surface and security risks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently working with:
+- Google Cloud Platform (IAM, Cloud Run, service accounts, least-privilege access)
+- Google Agent Development Kit (ADK) & Gemini
+- Python
+
+### 🎯 Areas I'm building expertise in:
+- LLM security & prompt injection defense
+- Cloud security fundamentals (IAM roles, service account isolation)
+- AI agent architecture & potential vulnerabilities
+- RAG systems and data grounding risks
+
+### 📌 Featured Project:
+**Coffee Barista AI Agent** — Built an AI agent using Google ADK + Gemini 
+with RAG grounding, deployed on Cloud Run using a dedicated service account 
+following the principle of least privilege (isolated IAM roles instead of 
+default broad permissions).
+
+### 📫 Connect:
+- LinkedIn: https://www.linkedin.com/in/sunil-kumawat-ai
