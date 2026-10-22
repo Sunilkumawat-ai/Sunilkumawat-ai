@@ -27,8 +27,6 @@ AI-assisted projects while developing my software engineering and security skill
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sunilkumawat-ai&style=flat-square&color=6C5CE7&label=PROFILE+VIEWS)
-
 </div>
 
 ---
