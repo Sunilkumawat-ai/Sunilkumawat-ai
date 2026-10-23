@@ -1,5 +1,5 @@
 <!-- ======================================================= -->
-<!-- SUNIL KUMAWAT | AI • PYTHON • WEB DEVELOPMENT           -->
+<!-- SUNIL KUMAWAT | AI • SECURITY • PYTHON • WEB            -->
 <!-- ======================================================= -->
 
 <div align="center">
@@ -8,12 +8,12 @@
 
 # Sunil Kumawat
 
-### Student Developer | AI Apps · Python · Web
+### Student Developer | AI Apps · Cybersecurity Basics · Python · Web
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=520&lines=Building+small+AI+projects;Learning+Python%2C+Web+and+Networks;Open+to+internships+and+freelance+work" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=520&lines=Building+small+AI+projects;Learning+cybersecurity+and+networks;Learning+Python%2C+JavaScript+and+Web" alt="Typing animation"/>
 
 I build small, useful AI apps, test them, and improve them
-while learning computer science fundamentals.
+while learning computer science and cybersecurity fundamentals.
 
 <br/>
 
@@ -42,9 +42,9 @@ products from a photo, summarizing chats on your phone, or helping
 students study. I build with AI tools, then test every result,
 find what is broken, and improve it step by step.
 
-I am also learning to read, write and debug code on my own.
-
-**Open to:** internships and freelance work.
+I am interested in both **AI and cybersecurity**, and in how AI apps
+can be made safer. I am just starting on the security side, and I
+am learning to read, write and debug code on my own.
 
 ---
 
@@ -65,11 +65,11 @@ I am also learning to read, write and debug code on my own.
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Computer Science & AI
+### 🛡️ Computer Science & Security
 
 - Computer networks
+- Cybersecurity basics (just started)
 - Working with LLM APIs
-- Building and shipping small AI apps
 - Software testing and debugging
 - Reading code and understanding how it works
 
@@ -93,7 +93,7 @@ I am also learning to read, write and debug code on my own.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### AI & Developer Tools
+### AI, Security & Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-6C5CE7?style=for-the-badge" alt="Generative AI"/>
@@ -102,6 +102,8 @@ I am also learning to read, write and debug code on my own.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Networking-Learning-2E8B57?style=for-the-badge" alt="Networking (learning)"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-C0392B?style=for-the-badge" alt="Cybersecurity (learning)"/>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -213,10 +215,11 @@ A private AI-powered journaling app.
 - [x] Build and publish my first AI projects
 - [x] Learn Git and GitHub basics
 - [ ] Finish CSS and JavaScript
-- [ ] Learn computer networks well
-- [ ] Rewrite parts of my projects by myself
+- [ ] Learn computer networks and Linux basics
+- [ ] Try beginner cybersecurity labs (TryHackMe, picoCTF)
+- [ ] Test my own AI app for prompt injection and write what I find
 - [ ] Make my first pull request to another project
-- [ ] Build a project with tests
+- [ ] Rewrite parts of my projects by myself
 
 ---
 
@@ -232,7 +235,8 @@ A private AI-powered journaling app.
 
 ## 🤝 Let's Connect
 
-I like talking with people about AI, web development and learning in public.
+I like talking with people about AI, cybersecurity, web development
+and learning in public.
 
 <div align="center">
 
@@ -245,7 +249,7 @@ I like talking with people about AI, web development and learning in public.
 
 <br/><br/>
 
-**Learn continuously. Build thoughtfully.**
+**Learn continuously. Build thoughtfully. Secure what matters.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt=""/>
 
