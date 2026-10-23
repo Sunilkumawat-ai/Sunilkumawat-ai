@@ -1,13 +1,33 @@
+<!-- ======================================================= -->
+<!-- SUNIL KUMAWAT | AI • PYTHON • WEB DEVELOPMENT           -->
+<!-- ======================================================= -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt=""/>
 
 # Sunil Kumawat
 
-### Aspiring Developer | AI Apps · Python · Web
+### Student Developer | AI Apps · Python · Web
 
-Building small AI projects and learning computer science fundamentals, one step at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=520&lines=Building+small+AI+projects;Learning+Python%2C+Web+and+Networks;Open+to+internships+and+freelance+work" alt="Typing animation"/>
 
-<a href="https://www.linkedin.com/in/sunil-kumawat-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Sunilkumawat-ai?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+I build small, useful AI apps, test them, and improve them
+while learning computer science fundamentals.
+
+<br/>
+
+<a href="https://github.com/Sunilkumawat-ai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sunil-kumawat-ai/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Sunilkumawat-ai?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+</a>
+
+<br/><br/>
 
 </div>
 
@@ -15,9 +35,14 @@ Building small AI projects and learning computer science fundamentals, one step 
 
 ## 👋 About Me
 
-Hi, I'm Sunil, a student developer from Rajasthan, India. I like building small, useful AI apps and learning how computers and networks work.
+Hi, I'm **Sunil**, a student developer from Rajasthan, India.
 
-I build my projects with AI tools. I test every result, find what is broken, and improve it step by step. I am also learning to read, write and debug code on my own.
+I like building AI apps that solve small real problems, like listing
+products from a photo, summarizing chats on your phone, or helping
+students study. I build with AI tools, then test every result,
+find what is broken, and improve it step by step.
+
+I am also learning to read, write and debug code on my own.
 
 **Open to:** internships and freelance work.
 
@@ -25,91 +50,161 @@ I build my projects with AI tools. I test every result, find what is broken, and
 
 ## 🎯 What I'm Learning
 
-| 💻 Programming | 🧠 Computer Science |
-|---|---|
-| Python (basics) | Computer networks |
-| C and C++ (basics) | Software testing and debugging |
-| SQL (basics) | Git and GitHub |
-| HTML (basics) | Working with AI APIs |
-| CSS and JavaScript (learning now) | Building and shipping small projects |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming
+
+- Python, C, C++ (basics)
+- SQL and databases (basics)
+- HTML (basics)
+- CSS and JavaScript (learning now)
+- Git and GitHub
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Computer Science & AI
+
+- Computer networks
+- Working with LLM APIs
+- Building and shipping small AI apps
+- Software testing and debugging
+- Reading code and understanding how it works
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Technologies & Tools
 
+### Programming Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### AI & Developer Tools
 
-
-
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-
-
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-
-
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-
-
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
-
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-
-
-
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-6C5CE7?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLM_APIs-4B6CB7?style=for-the-badge" alt="LLM APIs"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-| Project | What it does | Built with | Links |
-|---|---|---|---|
-| 🛍️ **DukaanAI** | Turns a product photo into a ready-to-post listing | JavaScript, Gemma, Cloudflare Workers | [Code](https://github.com/Sunilkumawat-ai/dukaanai) · [Live](PASTE_LIVE_LINK) |
-| 📚 **BCA Study Buddy** | Free AI study helper for coding, digital logic and maths | Python, Streamlit, Gemma | [Code](https://github.com/Sunilkumawat-ai/bca-study-buddy) · [Live](PASTE_LIVE_LINK) |
-| 🖼️ **AI Image Classifier** | Classifies images with a Vision Transformer and collects feedback | Python, PyTorch, Hugging Face, Streamlit | [Code](https://github.com/Sunilkumawat-ai/ai-image-classifier) · [Live](PASTE_LIVE_LINK) |
-| 🧠 **Slowly** | Chat summaries that stay on your phone, using on-device AI. Works, but quality is better on bigger models | JavaScript, WebGPU, WebLLM | [Code](https://github.com/Sunilkumawat-ai/slowly) · [Live](PASTE_LIVE_LINK) |
-| 🛡️ **TrailShield** | Outdoor safety buddy: take a trail photo, get cautious guidance, then put the phone away | HTML, Flask, Gemma | [Code](https://github.com/Sunilkumawat-ai/trailshield) · [Live](PASTE_LIVE_LINK) |
-| 📔 **ReflectAI Journal** | Private AI-powered journaling app | TypeScript, Firebase, Gemini | [Code](https://github.com/Sunilkumawat-ai/reflectai-journal) |
+I build my projects with AI help, then test and improve them myself.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ DukaanAI
+
+Turns a product photo into a ready-to-post listing.
+
+**Built with:** JavaScript, Gemma, Cloudflare Workers
+
+[Code →](https://github.com/Sunilkumawat-ai/dukaanai) · [Live Demo →](https://dukaanai.dukaantools.workers.dev/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 BCA Study Buddy
+
+Free AI study helper for coding, digital logic and maths.
+
+**Built with:** Python, Streamlit, Gemma
+
+[Code →](https://github.com/Sunilkumawat-ai/bca-study-buddy) · [Live Demo →](https://bca-study-buddy.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ AI Image Classifier
+
+Classifies images with a Vision Transformer and collects user feedback.
+
+**Built with:** Python, PyTorch, Hugging Face, Streamlit
+
+[Code →](https://github.com/Sunilkumawat-ai/ai-image-classifier) · [Live Demo →](https://sunil-ai-image-classifier-jnnscyx2gm87sbfbhsygp7.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Slowly
+
+Chat summaries that stay on your phone, using on-device open-weight AI.
+Works best with bigger models.
+
+**Built with:** JavaScript, WebGPU, WebLLM
+
+[Code →](https://github.com/Sunilkumawat-ai/slowly) · [Live Demo →](https://sunilkumawat-ai.github.io/slowly/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ TrailShield
+
+Outdoor safety buddy: snap a trail photo, get careful guidance,
+then put the phone away.
+
+**Built with:** HTML, Flask, Gemma
+
+[Code →](https://github.com/Sunilkumawat-ai/trailshield) · [Live Demo →](https://sunilkumawat-ai.github.io/trailshield/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📔 ReflectAI Journal
+
+A private AI-powered journaling app.
+
+**Built with:** TypeScript, Firebase, Firestore, Gemini
+
+[Code →](https://github.com/Sunilkumawat-ai/reflectai-journal)
+
+</td>
+</tr>
+</table>
+
+[Explore all my repositories →](https://github.com/Sunilkumawat-ai?tab=repositories)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilkumawat-ai&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sunilkumawat-ai&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
@@ -128,7 +223,7 @@ I build my projects with AI tools. I test every result, find what is broken, and
 ## 🌱 How I Build
 
 1. **Start with an idea:** find a small real problem.
-2. **Build with AI help:** use AI tools to get a first version.
+2. **Build with AI help:** get a first version quickly.
 3. **Test it:** use the app and find what is wrong.
 4. **Improve it:** ask for changes, check the result, repeat.
 5. **Understand it:** read the code until I can explain it.
@@ -139,10 +234,19 @@ I build my projects with AI tools. I test every result, find what is broken, and
 
 I like talking with people about AI, web development and learning in public.
 
-<a href="https://www.linkedin.com/in/sunil-kumawat-ai"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 <div align="center">
 
+<a href="https://www.linkedin.com/in/sunil-kumawat-ai/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/Sunilkumawat-ai?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work"/>
+</a>
+
+<br/><br/>
+
 **Learn continuously. Build thoughtfully.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt=""/>
 
 </div>
